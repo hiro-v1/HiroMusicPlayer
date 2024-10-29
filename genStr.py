@@ -1,21 +1,19 @@
 """
-Music Player, Telegram Voice Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
+Pemutar Musik, Bot Obrolan Suara Telegram
+HiroMusicPlayer di persembahkan untuk para pecinta demus
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+Program ini adalah perangkat lunak gratis: Anda dapat mendistribusikan ulang dan/atau memodifikasinya
+itu di bawah ketentuan Lisensi Publik Umum GNU Affero yang diterbitkan oleh
+Free Software Foundation, baik versi 3 dari Lisensi, atau
+(sesuai pilihan Anda) versi apa pun yang lebih baru.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Affero General Public License for more details.
+Program ini kami sebarkan dengan harapan dapat bermanfaat,
+tapi TANPA JAMINAN APAPUN; bahkan tanpa jaminan tersirat
+KELAYAKAN UNTUK DIPERDAGANGKAN atau KESESUAIAN UNTUK TUJUAN TERTENTU.  Lihat
+Lisensi Publik Umum GNU Affero untuk lebih jelasnya.
 
-You should have received a copy of the GNU Affero General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>
+Selamat menikmati, @hiro_v1
 """
-
 from pyrogram import Client
 
 
